@@ -1,3 +1,11 @@
+
+extraFile1aTestJavaCodeBlocksInJAVAdocuments
+stored in C:\Users\h19sl\Documents\JAVA\TestJavaCodeBlocks\extraFilesIMGTestJavaCodeBlocks
+8:02 AM 4/27/2022
+
+
+==  7:59 AM 4/27/2022 BASIC keep in front on top==++++++============
+//C:\Users\h19sl\Documents\JAVA\TestJavaCodeBlocks
 package hashmapCodeBlocks;
 
 import java.util.HashMap;
@@ -24,3 +32,15 @@ System.out.println(hFavorites.toString());
         System.out.println(alFavorites.toString());
     }
 }
+OUTPUT
+Testing hashmap code blocks
+{Favorite man=Mr.Moses, Favorite place =Niagara Falls,Canada, Favorite kid=Alice, Favorite book=Holy Bible, Favorite role model=Angela, Favorite person=my mom Beatrice, Favorite Color=Red, Favorite food=Kolache, Favorite chair=Rocking chair, Favorite hymn=Praise to the Lord}
+[]
+
+Process finished with exit code 0
+
+==========++++++===============================
+
+===  
+
+========++++++++++++=======================
